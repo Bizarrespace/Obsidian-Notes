@@ -26,3 +26,4 @@
 - touch {name}
 	- to make a file
 	- Can use nano in front to write to it right away
+[[link test]]
