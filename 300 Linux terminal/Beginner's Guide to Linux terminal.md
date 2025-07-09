@@ -1,0 +1,28 @@
+- pwd
+	- Print current directory
+- cd
+	- change directory
+- nano
+	- default text editor
+	- ctrl + O to save
+	- ctrl + X to save and quit nano
+- ~/.bashrc
+	- Shell script that runs when you open a bash terminal
+	- Used for environment variables
+	- Custom prompt settings (PS1), shell options and more
+- ctrl + l
+	- clears screen
+- ls
+	- lists contents of the directory that you are in (that are not hidden, dot files)
+	- ls -a 
+		- to get all the files 
+	- ls -al 
+		- to get all files and long listed format
+	- ls -alh
+		- All files, long listed, and human readable format for byte numbers
+- man
+	- manuel page for a command
+	- man ls would get all the commands for ls
+- touch {name}
+	- to make a file
+	- Can use nano in front to write to it right away
