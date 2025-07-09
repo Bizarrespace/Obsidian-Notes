@@ -27,3 +27,5 @@
 	- to make a file
 	- Can use nano in front to write to it right away
 [[link test]]
+* Testing to see if this works
+[[Link test 2]]
